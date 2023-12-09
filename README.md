@@ -26,7 +26,7 @@ Tabela de conteúdos
    * [Layout](#-layout)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando a aplicação](#-Rodando-a-aplicação-Web)
+     * [Rodando a aplicação](#-Rodando-a-aplicação)
    * [Tecnologias](#-tecnologias)
    * [Autor](#-autor)
    * [Licença](#-licença)
@@ -63,10 +63,12 @@ Divirta-se jogando!
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Python](https://www.python.org/downloads/) e além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+[Python](https://www.python.org/downloads/), [Pyautogui](https://pypi.org/project/PyAutoGUI/) e além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
+<p>A resolução do seu monitor tem que está obrigatoriamente em (1920 x 1080).</p>
 
-#### 🧭 Rodando a aplicação
+### 🧭 Rodando a aplicação
+
 ```bash
 
 # Clone este repositório
