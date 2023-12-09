@@ -37,8 +37,7 @@ Tabela de conteúdos
 
 <p>Este projeto foi desenvolvido com o intuito de aprimorar a experiência de jogadores no Dogeminer, proporcionando uma forma eficaz de realizar tarefas repetitivas.
 Utilize-o de maneira ética e responsável, respeitando os termos de serviço do jogo.</p>
-Espero que esta automação torne sua jornada no Dogeminer ainda mais divertida! Sinta-se à vontade para explorar o código-fonte e contribuir para o aprimoramento contínuo deste projeto. Dúvidas, sugestões e feedback são sempre bem-vindos.
-<br>
+<p>Espero que esta automação torne sua jornada no Dogeminer ainda mais divertida! Sinta-se à vontade para explorar o código-fonte e contribuir para o aprimoramento contínuo deste projeto. Dúvidas, sugestões e feedback são sempre bem-vindos.</p>
 Divirta-se jogando!
 
 ---
