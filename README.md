@@ -1,14 +1,14 @@
 <h1 align="center">AUTOMATION -Dogeminer</h1>			
 <br>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/Automation-Dogeminer?style=flat-square&&color=%2304D361" />
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/Automation-Dogeminer?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/Automation-Dogeminer?style=flat-square" />
-	<a href="https://github.com/danielrodrigues-dv/Automation-Dogeminer/blob/master/LICENSE">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielrodrigues-dv/automation-dogeminer?style=flat-square&&color=%2304D361" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielrodrigues-dv/automation-dogeminer?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/danielrodrigues-dv/automation-dogeminer?style=flat-square" />
+	<a href="https://github.com/danielrodrigues-dv/automation-dogeminer/blob/master/LICENSE">
   <img src="https://img.shields.io/github/license/danielrodrigues-dv/Automation-Dogeminer?style=flat-square&" />
 	</a>
-  <a href="https://github.com/danielrodrigues-dv/Automation-Dogeminer/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/Automation-Dogeminer?style=flat-square&">
+  <a href="https://github.com/danielrodrigues-dv/automation-dogeminer/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielrodrigues-dv/automation-dogeminer?style=flat-square&">
   </a>
   <a href="https://github.com/danielrodrigues-dv">
     <img alt="Feito por danielrodrigues-dv" src="https://img.shields.io/badge/feito%20por-Daniel%20Rodrigues-%237519C1?style=flat-square&">
@@ -38,7 +38,7 @@ Tabela de conteúdos
 <p>Este projeto foi desenvolvido com o intuito de aprimorar a experiência de jogadores no Dogeminer, proporcionando uma forma eficaz de realizar tarefas repetitivas.
 Utilize-o de maneira ética e responsável, respeitando os termos de serviço do jogo.</p>
 Espero que esta automação torne sua jornada no Dogeminer ainda mais divertida! Sinta-se à vontade para explorar o código-fonte e contribuir para o aprimoramento contínuo deste projeto. Dúvidas, sugestões e feedback são sempre bem-vindos.
-
+<br>
 Divirta-se jogando!
 
 ---
