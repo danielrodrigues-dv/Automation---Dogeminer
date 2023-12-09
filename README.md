@@ -87,8 +87,8 @@ $ python app.py
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
--   **[Python](https://www.python.org/downloads/)** 
--   **[Pyautogui](https://pypi.org/project/PyAutoGUI/)** 
+-   **[Python](https://www.python.org/downloads/)** 3.11.4
+-   **[Pyautogui](https://pypi.org/project/PyAutoGUI/)** 0.9.54
 ---
 
 ## 🦸🏻‍♂️ Autor
