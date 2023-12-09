@@ -53,12 +53,8 @@ Divirta-se jogando!
 
 ## 🎨 Layout
 
-<a href="https://danielrodrigues-dv-calculadora-react-dv.netlify.app/">
-  <img alt="Made by danielrodrigues-dv" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
-</a>
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://raw.githubusercontent.com/danielrodrigues-dv/alon-musk/main/application/src/assets/imagens/banner-elon.png" />
+  <img alt="danielrodrigues-dv" title="#moments-angular" src="https://github.com/danielrodrigues-dv/my-portfolio/blob/main/application/src/assets/bannergit/banner-doger-miner.png" />
 </p>
 
 ---
