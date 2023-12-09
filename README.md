@@ -63,12 +63,10 @@ Divirta-se jogando!
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+[Python](https://www.python.org/downloads/) e além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 
-
-#### 🧭 Rodando a aplicação Web
+#### 🧭 Rodando a aplicação
 ```bash
 
 # Clone este repositório
@@ -83,15 +81,12 @@ $ python app.py
 
 ```
 
-
-
 ## 🛠 Tecnologias
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
--   **[Angular 14](https://angular.io)** 
--   **[Bootstrap 5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/)** 
--   **[ECMA Script 6](https://www.javascript.com/)**
+-   **[Python](https://www.python.org/downloads/)** 
+-   **[Pyautogui](https://pypi.org/project/PyAutoGUI/)** 
 ---
 
 ## 🦸🏻‍♂️ Autor
